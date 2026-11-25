@@ -1,0 +1,10 @@
+{
+  "project": "SignalPath",
+  "title": "Network Reliability Watch",
+  "sector": "Telecommunications",
+  "subject": "network node",
+  "metric": "Packet loss",
+  "unit": "percent",
+  "threshold": 2,
+  "sample": "Core Gateway"
+}
